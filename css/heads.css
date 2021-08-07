@@ -1,0 +1,44 @@
+*{
+    color: white;
+    font-weight: 400!important;
+}
+.core{
+    width: 60%!important;
+    border-radius: 50%;
+    margin-left: 20%!important;
+    height: 100px;
+}
+h4{
+    letter-spacing: 2px;
+    word-spacing: 5px;
+}
+i{
+    letter-spacing: 3px;
+    font-weight: 500!important;
+    font-family: serif;
+}
+#banner{
+    width: 100%;
+}
+#logo{
+    width: 50px;
+}
+.button{
+    padding: 6px;
+    background-color: #ffc107;
+    border-radius: 20px;
+    width: 80px;
+    text-align: center;
+    color: black!important;
+    font-weight: 500!important;
+}
+
+/*footer*/
+.line{
+    width: 1px;
+    background-color: white;
+    height: 120px;
+}
+.logo{
+    width: 30px;
+}
